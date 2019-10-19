@@ -1,0 +1,14 @@
+h1 {
+  font-size:45px;
+  text-align:center;
+  border-bottom:1px solid gray;
+  margin:0;
+}
+#grid-container {
+  display:grid;
+  grid-template-columns: 200px auto;
+}
+.contents {
+  border-left:1px solid gray;
+  padding-left: 20px;
+}
